@@ -1,0 +1,351 @@
+sku_id,product_name,category,unit_cost,selling_price,reorder_point,lead_time_days,lead_time_std,supplier_id,supplier_name
+SKU0001,Amoxicillin 500mg,Antibiotics,5.74,16.74,526,20,7,SUP009,ValueMed Wholesale
+SKU0002,Azithromycin 250mg,Antibiotics,9.9,30.07,142,9,3,SUP008,CareLine Direct
+SKU0003,Doxycycline 100mg,Antibiotics,5.15,15.0,260,18,5,SUP010,Prime Specialty Supply
+SKU0004,Ciprofloxacin 500mg,Antibiotics,6.91,18.5,79,18,5,SUP010,Prime Specialty Supply
+SKU0005,Metformin 500mg,Diabetes,2.14,7.18,1533,10,3,SUP001,Cardinal Health
+SKU0006,Metformin ER 1000mg,Diabetes,2.84,9.0,1202,16,6,SUP007,Metro Pharma Hub
+SKU0007,Insulin Glargine Pen,Diabetes,43.1,88.0,312,18,5,SUP010,Prime Specialty Supply
+SKU0008,Insulin Aspart Pen,Diabetes,40.35,128.56,123,12,4,SUP002,McKesson Direct
+SKU0009,Atorvastatin 20mg,Cardiovascular,3.88,11.94,1225,12,4,SUP002,McKesson Direct
+SKU0010,Rosuvastatin 10mg,Cardiovascular,4.87,15.59,1026,28,10,SUP006,Apex Medical Imports
+SKU0011,Amlodipine 5mg,Cardiovascular,2.36,7.0,254,6,2,SUP004,QuickPharm Regional
+SKU0012,Losartan 50mg,Cardiovascular,2.66,9.0,339,6,2,SUP004,QuickPharm Regional
+SKU0013,Lisinopril 10mg,Cardiovascular,3.76,9.78,1200,20,7,SUP009,ValueMed Wholesale
+SKU0014,Metoprolol 50mg,Cardiovascular,3.24,7.2,1161,18,5,SUP010,Prime Specialty Supply
+SKU0015,Omeprazole 20mg,Gastrology,3.16,10.68,645,18,5,SUP010,Prime Specialty Supply
+SKU0016,Pantoprazole 40mg,Gastrology,4.23,11.06,647,16,6,SUP007,Metro Pharma Hub
+SKU0017,Ondansetron 4mg,Gastrology,6.54,18.0,225,10,3,SUP001,Cardinal Health
+SKU0018,Paracetamol 500mg,Analgesics,1.37,3.5,5679,28,10,SUP006,Apex Medical Imports
+SKU0019,Ibuprofen 400mg,Analgesics,1.64,4.5,951,10,3,SUP001,Cardinal Health
+SKU0020,Naproxen 500mg,Analgesics,2.74,8.03,2041,20,7,SUP009,ValueMed Wholesale
+SKU0021,Cetirizine 10mg,Allergy,2.13,5.5,198,9,3,SUP008,CareLine Direct
+SKU0022,Loratadine 10mg,Allergy,1.6,4.8,577,16,6,SUP007,Metro Pharma Hub
+SKU0023,Fluticasone Nasal Spray,Allergy,11.96,40.34,139,18,5,SUP010,Prime Specialty Supply
+SKU0024,Salbutamol Inhaler,Respiratory,10.05,30.0,284,10,3,SUP001,Cardinal Health
+SKU0025,Fluticasone Inhaler,Respiratory,17.3,45.59,480,24,8,SUP005,Global Generics Ltd
+SKU0026,Prednisone 5mg,Immunology,3.89,12.14,547,28,10,SUP006,Apex Medical Imports
+SKU0027,Levothyroxine 50mcg,Thyroid,3.8,10.31,1573,24,8,SUP005,Global Generics Ltd
+SKU0028,Sertraline 50mg,Psychiatry,6.05,16.0,567,14,5,SUP003,AmerisourceBergen
+SKU0029,Fluoxetine 20mg,Psychiatry,5.56,17.73,160,12,4,SUP002,McKesson Direct
+SKU0030,Gabapentin 300mg,Neurology,7.31,17.53,360,14,5,SUP003,AmerisourceBergen
+SKU0031,Warfarin 5mg,Anticoagulants,4.32,11.3,429,12,4,SUP002,McKesson Direct
+SKU0032,Clopidogrel 75mg,Anticoagulants,6.62,13.84,333,18,5,SUP010,Prime Specialty Supply
+SKU0033,Furosemide 40mg,Diuretics,1.91,6.0,273,16,6,SUP007,Metro Pharma Hub
+SKU0034,Vitamin D3 2000 IU,OTC Vitamins,0.84,6.99,2061,28,10,SUP006,Apex Medical Imports
+SKU0035,Multivitamin Adult,OTC Vitamins,3.32,14.99,486,10,3,SUP001,Cardinal Health
+SKU0036,Cough Syrup DM,Cold & Flu,3.71,12.99,755,14,5,SUP003,AmerisourceBergen
+SKU0037,Cold Relief Capsules,Cold & Flu,2.89,9.99,306,9,3,SUP008,CareLine Direct
+SKU0038,Electrolyte Solution,Hydration,2.36,7.99,738,28,10,SUP006,Apex Medical Imports
+SKU0039,Antacid Chewables,Digestive OTC,2.14,6.49,519,18,5,SUP010,Prime Specialty Supply
+SKU0040,Hydrocortisone Cream,Dermatology,2.96,8.99,187,6,2,SUP004,QuickPharm Regional
+SKU0041,Amoxicillin 500mg - Retail Pack,Antibiotics,3.71,12.0,801,24,8,SUP005,Global Generics Ltd
+SKU0042,Azithromycin 250mg - 90 Count,Antibiotics,8.38,22.0,162,9,3,SUP008,CareLine Direct
+SKU0043,Doxycycline 100mg - Bottle,Antibiotics,5.65,15.02,111,18,5,SUP010,Prime Specialty Supply
+SKU0044,Ciprofloxacin 500mg - Blister,Antibiotics,8.07,27.27,171,10,3,SUP001,Cardinal Health
+SKU0045,Metformin 500mg - Generic,Diabetes,2.11,6.0,1009,14,5,SUP003,AmerisourceBergen
+SKU0046,Metformin ER 1000mg - Brand,Diabetes,2.84,9.0,1122,28,10,SUP006,Apex Medical Imports
+SKU0047,Insulin Glargine Pen - Clinic Pack,Diabetes,29.18,88.0,128,9,3,SUP008,CareLine Direct
+SKU0048,Insulin Aspart Pen - Retail Pack,Diabetes,45.22,117.38,108,9,3,SUP008,CareLine Direct
+SKU0049,Atorvastatin 20mg - 90 Count,Cardiovascular,4.79,13.13,1189,10,3,SUP001,Cardinal Health
+SKU0050,Rosuvastatin 10mg - Bottle,Cardiovascular,6.49,14.68,769,9,3,SUP008,CareLine Direct
+SKU0051,Amlodipine 5mg - Blister,Cardiovascular,2.22,7.07,520,14,5,SUP003,AmerisourceBergen
+SKU0052,Losartan 50mg - Generic,Cardiovascular,2.73,9.0,1220,28,10,SUP006,Apex Medical Imports
+SKU0053,Lisinopril 10mg - Brand,Cardiovascular,3.13,7.52,1956,24,8,SUP005,Global Generics Ltd
+SKU0054,Metoprolol 50mg - Clinic Pack,Cardiovascular,2.35,7.2,2835,28,10,SUP006,Apex Medical Imports
+SKU0055,Omeprazole 20mg - Retail Pack,Gastrology,2.48,8.5,358,12,4,SUP002,McKesson Direct
+SKU0056,Pantoprazole 40mg - 90 Count,Gastrology,4.52,12.26,529,16,6,SUP007,Metro Pharma Hub
+SKU0057,Ondansetron 4mg - Bottle,Gastrology,7.07,18.0,931,24,8,SUP005,Global Generics Ltd
+SKU0058,Paracetamol 500mg - Blister,Analgesics,1.61,3.86,2564,28,10,SUP006,Apex Medical Imports
+SKU0059,Ibuprofen 400mg - Generic,Analgesics,2.18,4.5,1448,20,7,SUP009,ValueMed Wholesale
+SKU0060,Naproxen 500mg - Brand,Analgesics,2.86,6.5,674,28,10,SUP006,Apex Medical Imports
+SKU0061,Cetirizine 10mg - Clinic Pack,Allergy,2.06,5.5,437,6,2,SUP004,QuickPharm Regional
+SKU0062,Loratadine 10mg - Retail Pack,Allergy,2.07,6.59,360,6,2,SUP004,QuickPharm Regional
+SKU0063,Fluticasone Nasal Spray - 90 Count,Allergy,9.11,28.59,588,14,5,SUP003,AmerisourceBergen
+SKU0064,Salbutamol Inhaler - Bottle,Respiratory,15.94,30.0,220,20,7,SUP009,ValueMed Wholesale
+SKU0065,Fluticasone Inhaler - Blister,Respiratory,16.78,45.0,554,18,5,SUP010,Prime Specialty Supply
+SKU0066,Prednisone 5mg - Generic,Immunology,4.55,12.76,156,9,3,SUP008,CareLine Direct
+SKU0067,Levothyroxine 50mcg - Brand,Thyroid,4.47,9.8,558,9,3,SUP008,CareLine Direct
+SKU0068,Sertraline 50mg - Clinic Pack,Psychiatry,8.15,16.0,272,24,8,SUP005,Global Generics Ltd
+SKU0069,Fluoxetine 20mg - Retail Pack,Psychiatry,6.42,16.72,830,10,3,SUP001,Cardinal Health
+SKU0070,Gabapentin 300mg - 90 Count,Neurology,4.87,15.5,924,16,6,SUP007,Metro Pharma Hub
+SKU0071,Warfarin 5mg - Bottle,Anticoagulants,4.74,12.0,140,18,5,SUP010,Prime Specialty Supply
+SKU0072,Clopidogrel 75mg - Blister,Anticoagulants,6.29,20.8,186,9,3,SUP008,CareLine Direct
+SKU0073,Furosemide 40mg - Generic,Diuretics,2.29,6.0,194,12,4,SUP002,McKesson Direct
+SKU0074,Vitamin D3 2000 IU - Brand,OTC Vitamins,1.3,6.99,2052,12,4,SUP002,McKesson Direct
+SKU0075,Multivitamin Adult - Clinic Pack,OTC Vitamins,4.53,14.99,567,14,5,SUP003,AmerisourceBergen
+SKU0076,Cough Syrup DM - Retail Pack,Cold & Flu,4.99,12.99,1045,28,10,SUP006,Apex Medical Imports
+SKU0077,Cold Relief Capsules - 90 Count,Cold & Flu,2.73,9.99,472,14,5,SUP003,AmerisourceBergen
+SKU0078,Electrolyte Solution - Bottle,Hydration,2.52,7.99,163,9,3,SUP008,CareLine Direct
+SKU0079,Antacid Chewables - Blister,Digestive OTC,2.15,7.09,1079,24,8,SUP005,Global Generics Ltd
+SKU0080,Hydrocortisone Cream - Generic,Dermatology,2.67,8.99,700,28,10,SUP006,Apex Medical Imports
+SKU0081,Amoxicillin 500mg - Brand,Antibiotics,5.94,19.02,242,6,2,SUP004,QuickPharm Regional
+SKU0082,Azithromycin 250mg - Clinic Pack,Antibiotics,11.16,31.43,85,6,2,SUP004,QuickPharm Regional
+SKU0083,Doxycycline 100mg - Retail Pack,Antibiotics,7.41,15.0,590,20,7,SUP009,ValueMed Wholesale
+SKU0084,Ciprofloxacin 500mg - 90 Count,Antibiotics,6.53,18.5,255,12,4,SUP002,McKesson Direct
+SKU0085,Metformin 500mg - Bottle,Diabetes,2.15,6.0,690,18,5,SUP010,Prime Specialty Supply
+SKU0086,Metformin ER 1000mg - Blister,Diabetes,3.5,9.86,451,10,3,SUP001,Cardinal Health
+SKU0087,Insulin Glargine Pen - Generic,Diabetes,37.21,89.76,214,10,3,SUP001,Cardinal Health
+SKU0088,Insulin Aspart Pen - Brand,Diabetes,32.51,96.0,201,18,5,SUP010,Prime Specialty Supply
+SKU0089,Atorvastatin 20mg - Clinic Pack,Cardiovascular,5.08,10.33,3495,18,5,SUP010,Prime Specialty Supply
+SKU0090,Rosuvastatin 10mg - Retail Pack,Cardiovascular,4.83,14.0,1297,20,7,SUP009,ValueMed Wholesale
+SKU0091,Amlodipine 5mg - 90 Count,Cardiovascular,2.21,7.0,1556,18,5,SUP010,Prime Specialty Supply
+SKU0092,Losartan 50mg - Bottle,Cardiovascular,3.6,11.3,1409,12,4,SUP002,McKesson Direct
+SKU0093,Lisinopril 10mg - Blister,Cardiovascular,2.55,7.5,192,6,2,SUP004,QuickPharm Regional
+SKU0094,Metoprolol 50mg - Generic,Cardiovascular,2.72,7.2,1529,20,7,SUP009,ValueMed Wholesale
+SKU0095,Omeprazole 20mg - Brand,Gastrology,3.05,8.5,711,12,4,SUP002,McKesson Direct
+SKU0096,Pantoprazole 40mg - Clinic Pack,Gastrology,4.24,13.19,463,20,7,SUP009,ValueMed Wholesale
+SKU0097,Ondansetron 4mg - Retail Pack,Gastrology,8.78,22.19,105,12,4,SUP002,McKesson Direct
+SKU0098,Paracetamol 500mg - 90 Count,Analgesics,1.54,3.99,1064,12,4,SUP002,McKesson Direct
+SKU0099,Ibuprofen 400mg - Bottle,Analgesics,1.97,6.49,800,10,3,SUP001,Cardinal Health
+SKU0100,Naproxen 500mg - Blister,Analgesics,2.2,6.5,658,16,6,SUP007,Metro Pharma Hub
+SKU0101,Cetirizine 10mg - Generic,Allergy,2.22,7.18,319,9,3,SUP008,CareLine Direct
+SKU0102,Loratadine 10mg - Brand,Allergy,1.91,4.8,1026,16,6,SUP007,Metro Pharma Hub
+SKU0103,Fluticasone Nasal Spray - Clinic Pack,Allergy,11.17,31.81,169,14,5,SUP003,AmerisourceBergen
+SKU0104,Salbutamol Inhaler - Retail Pack,Respiratory,15.42,30.0,592,24,8,SUP005,Global Generics Ltd
+SKU0105,Fluticasone Inhaler - 90 Count,Respiratory,21.23,45.0,221,9,3,SUP008,CareLine Direct
+SKU0106,Prednisone 5mg - Bottle,Immunology,2.94,9.5,290,10,3,SUP001,Cardinal Health
+SKU0107,Levothyroxine 50mcg - Blister,Thyroid,3.59,11.36,1691,24,8,SUP005,Global Generics Ltd
+SKU0108,Sertraline 50mg - Generic,Psychiatry,6.05,19.76,563,24,8,SUP005,Global Generics Ltd
+SKU0109,Fluoxetine 20mg - Brand,Psychiatry,4.77,13.0,336,12,4,SUP002,McKesson Direct
+SKU0110,Gabapentin 300mg - Clinic Pack,Neurology,5.76,15.5,918,28,10,SUP006,Apex Medical Imports
+SKU0111,Warfarin 5mg - Retail Pack,Anticoagulants,5.13,11.64,202,14,5,SUP003,AmerisourceBergen
+SKU0112,Clopidogrel 75mg - 90 Count,Anticoagulants,5.23,13.5,190,10,3,SUP001,Cardinal Health
+SKU0113,Furosemide 40mg - Bottle,Diuretics,2.97,6.13,218,12,4,SUP002,McKesson Direct
+SKU0114,Vitamin D3 2000 IU - Blister,OTC Vitamins,1.26,6.99,1752,24,8,SUP005,Global Generics Ltd
+SKU0115,Multivitamin Adult - Generic,OTC Vitamins,3.11,14.99,459,10,3,SUP001,Cardinal Health
+SKU0116,Cough Syrup DM - Brand,Cold & Flu,4.51,12.99,1315,28,10,SUP006,Apex Medical Imports
+SKU0117,Cold Relief Capsules - Clinic Pack,Cold & Flu,3.32,9.99,766,10,3,SUP001,Cardinal Health
+SKU0118,Electrolyte Solution - Retail Pack,Hydration,2.02,7.99,297,12,4,SUP002,McKesson Direct
+SKU0119,Antacid Chewables - 90 Count,Digestive OTC,1.55,6.49,337,16,6,SUP007,Metro Pharma Hub
+SKU0120,Hydrocortisone Cream - Bottle,Dermatology,2.44,8.99,141,6,2,SUP004,QuickPharm Regional
+SKU0121,Amoxicillin 500mg - Blister,Antibiotics,5.11,14.48,322,12,4,SUP002,McKesson Direct
+SKU0122,Azithromycin 250mg - Generic,Antibiotics,10.33,29.7,132,28,10,SUP006,Apex Medical Imports
+SKU0123,Doxycycline 100mg - Brand,Antibiotics,5.62,15.0,306,10,3,SUP001,Cardinal Health
+SKU0124,Ciprofloxacin 500mg - Clinic Pack,Antibiotics,8.51,28.87,830,10,3,SUP001,Cardinal Health
+SKU0125,Metformin 500mg - Retail Pack,Diabetes,2.13,6.0,1212,28,10,SUP006,Apex Medical Imports
+SKU0126,Metformin ER 1000mg - 90 Count,Diabetes,2.79,9.0,3366,28,10,SUP006,Apex Medical Imports
+SKU0127,Insulin Glargine Pen - Bottle,Diabetes,44.35,116.17,463,28,10,SUP006,Apex Medical Imports
+SKU0128,Insulin Aspart Pen - Blister,Diabetes,33.77,96.0,72,9,3,SUP008,CareLine Direct
+SKU0129,Atorvastatin 20mg - Generic,Cardiovascular,3.28,10.16,1897,10,3,SUP001,Cardinal Health
+SKU0130,Rosuvastatin 10mg - Brand,Cardiovascular,5.4,15.58,1258,20,7,SUP009,ValueMed Wholesale
+SKU0131,Amlodipine 5mg - Clinic Pack,Cardiovascular,2.57,7.0,1743,28,10,SUP006,Apex Medical Imports
+SKU0132,Losartan 50mg - Retail Pack,Cardiovascular,3.9,9.0,381,10,3,SUP001,Cardinal Health
+SKU0133,Lisinopril 10mg - 90 Count,Cardiovascular,3.65,7.5,851,10,3,SUP001,Cardinal Health
+SKU0134,Metoprolol 50mg - Bottle,Cardiovascular,3.15,7.2,326,12,4,SUP002,McKesson Direct
+SKU0135,Omeprazole 20mg - Blister,Gastrology,2.8,8.58,774,10,3,SUP001,Cardinal Health
+SKU0136,Pantoprazole 40mg - Generic,Gastrology,4.56,13.17,430,18,5,SUP010,Prime Specialty Supply
+SKU0137,Ondansetron 4mg - Brand,Gastrology,5.99,18.0,91,9,3,SUP008,CareLine Direct
+SKU0138,Paracetamol 500mg - Clinic Pack,Analgesics,1.15,3.67,1984,18,5,SUP010,Prime Specialty Supply
+SKU0139,Ibuprofen 400mg - Retail Pack,Analgesics,2.25,7.07,1789,24,8,SUP005,Global Generics Ltd
+SKU0140,Naproxen 500mg - 90 Count,Analgesics,2.73,9.16,807,28,10,SUP006,Apex Medical Imports
+SKU0141,Cetirizine 10mg - Bottle,Allergy,2.28,7.75,481,10,3,SUP001,Cardinal Health
+SKU0142,Loratadine 10mg - Blister,Allergy,1.75,4.8,1612,16,6,SUP007,Metro Pharma Hub
+SKU0143,Fluticasone Nasal Spray - Generic,Allergy,9.43,26.23,366,18,5,SUP010,Prime Specialty Supply
+SKU0144,Salbutamol Inhaler - Brand,Respiratory,14.56,34.59,192,14,5,SUP003,AmerisourceBergen
+SKU0145,Fluticasone Inhaler - Clinic Pack,Respiratory,18.23,45.0,763,28,10,SUP006,Apex Medical Imports
+SKU0146,Prednisone 5mg - Retail Pack,Immunology,4.62,11.72,179,16,6,SUP007,Metro Pharma Hub
+SKU0147,Levothyroxine 50mcg - 90 Count,Thyroid,4.49,10.57,204,16,6,SUP007,Metro Pharma Hub
+SKU0148,Sertraline 50mg - Bottle,Psychiatry,7.73,16.0,1261,20,7,SUP009,ValueMed Wholesale
+SKU0149,Fluoxetine 20mg - Blister,Psychiatry,4.97,13.0,536,20,7,SUP009,ValueMed Wholesale
+SKU0150,Gabapentin 300mg - Generic,Neurology,5.16,15.5,239,9,3,SUP008,CareLine Direct
+SKU0151,Warfarin 5mg - Brand,Anticoagulants,5.18,13.7,31,6,2,SUP004,QuickPharm Regional
+SKU0152,Clopidogrel 75mg - Clinic Pack,Anticoagulants,5.83,15.14,138,16,6,SUP007,Metro Pharma Hub
+SKU0153,Furosemide 40mg - Retail Pack,Diuretics,2.1,6.0,712,20,7,SUP009,ValueMed Wholesale
+SKU0154,Vitamin D3 2000 IU - 90 Count,OTC Vitamins,0.84,6.99,934,14,5,SUP003,AmerisourceBergen
+SKU0155,Multivitamin Adult - Bottle,OTC Vitamins,3.28,14.99,905,10,3,SUP001,Cardinal Health
+SKU0156,Cough Syrup DM - Blister,Cold & Flu,5.39,12.99,362,18,5,SUP010,Prime Specialty Supply
+SKU0157,Cold Relief Capsules - Generic,Cold & Flu,3.67,10.86,2051,28,10,SUP006,Apex Medical Imports
+SKU0158,Electrolyte Solution - Brand,Hydration,1.78,7.99,478,14,5,SUP003,AmerisourceBergen
+SKU0159,Antacid Chewables - Clinic Pack,Digestive OTC,2.08,6.49,858,18,5,SUP010,Prime Specialty Supply
+SKU0160,Hydrocortisone Cream - Retail Pack,Dermatology,2.71,8.99,172,12,4,SUP002,McKesson Direct
+SKU0161,Amoxicillin 500mg - 90 Count,Antibiotics,5.3,16.79,502,18,5,SUP010,Prime Specialty Supply
+SKU0162,Azithromycin 250mg - Bottle,Antibiotics,9.95,22.0,203,18,5,SUP010,Prime Specialty Supply
+SKU0163,Doxycycline 100mg - Blister,Antibiotics,6.7,22.52,353,20,7,SUP009,ValueMed Wholesale
+SKU0164,Ciprofloxacin 500mg - Generic,Antibiotics,6.62,19.98,176,12,4,SUP002,McKesson Direct
+SKU0165,Metformin 500mg - Brand,Diabetes,2.58,6.0,1002,12,4,SUP002,McKesson Direct
+SKU0166,Metformin ER 1000mg - Clinic Pack,Diabetes,3.34,9.0,736,12,4,SUP002,McKesson Direct
+SKU0167,Insulin Glargine Pen - Retail Pack,Diabetes,29.03,88.0,1078,20,7,SUP009,ValueMed Wholesale
+SKU0168,Insulin Aspart Pen - 90 Count,Diabetes,31.55,96.0,278,16,6,SUP007,Metro Pharma Hub
+SKU0169,Atorvastatin 20mg - Bottle,Cardiovascular,3.5,10.48,1169,28,10,SUP006,Apex Medical Imports
+SKU0170,Rosuvastatin 10mg - Blister,Cardiovascular,6.2,14.0,269,10,3,SUP001,Cardinal Health
+SKU0171,Amlodipine 5mg - Generic,Cardiovascular,2.29,7.0,3715,20,7,SUP009,ValueMed Wholesale
+SKU0172,Losartan 50mg - Brand,Cardiovascular,2.91,9.0,1758,28,10,SUP006,Apex Medical Imports
+SKU0173,Lisinopril 10mg - Clinic Pack,Cardiovascular,2.41,7.5,637,14,5,SUP003,AmerisourceBergen
+SKU0174,Metoprolol 50mg - Retail Pack,Cardiovascular,2.65,7.2,519,28,10,SUP006,Apex Medical Imports
+SKU0175,Omeprazole 20mg - 90 Count,Gastrology,3.73,8.77,217,6,2,SUP004,QuickPharm Regional
+SKU0176,Pantoprazole 40mg - Bottle,Gastrology,3.78,10.78,291,18,5,SUP010,Prime Specialty Supply
+SKU0177,Ondansetron 4mg - Blister,Gastrology,7.51,20.57,292,14,5,SUP003,AmerisourceBergen
+SKU0178,Paracetamol 500mg - Generic,Analgesics,1.12,3.5,1766,10,3,SUP001,Cardinal Health
+SKU0179,Ibuprofen 400mg - Brand,Analgesics,1.85,4.61,2270,24,8,SUP005,Global Generics Ltd
+SKU0180,Naproxen 500mg - Clinic Pack,Analgesics,3.13,9.14,1034,12,4,SUP002,McKesson Direct
+SKU0181,Cetirizine 10mg - Retail Pack,Allergy,2.25,6.4,1121,12,4,SUP002,McKesson Direct
+SKU0182,Loratadine 10mg - 90 Count,Allergy,1.89,5.87,436,9,3,SUP008,CareLine Direct
+SKU0183,Fluticasone Nasal Spray - Bottle,Allergy,10.33,30.34,130,9,3,SUP008,CareLine Direct
+SKU0184,Salbutamol Inhaler - Blister,Respiratory,14.54,45.3,284,24,8,SUP005,Global Generics Ltd
+SKU0185,Fluticasone Inhaler - Generic,Respiratory,17.51,45.0,123,12,4,SUP002,McKesson Direct
+SKU0186,Prednisone 5mg - Brand,Immunology,3.58,12.09,158,12,4,SUP002,McKesson Direct
+SKU0187,Levothyroxine 50mcg - Clinic Pack,Thyroid,3.9,9.8,822,12,4,SUP002,McKesson Direct
+SKU0188,Sertraline 50mg - Retail Pack,Psychiatry,6.41,16.0,1513,24,8,SUP005,Global Generics Ltd
+SKU0189,Fluoxetine 20mg - 90 Count,Psychiatry,6.52,20.0,854,28,10,SUP006,Apex Medical Imports
+SKU0190,Gabapentin 300mg - Bottle,Neurology,5.06,15.5,1917,24,8,SUP005,Global Generics Ltd
+SKU0191,Warfarin 5mg - Blister,Anticoagulants,4.37,11.12,289,24,8,SUP005,Global Generics Ltd
+SKU0192,Clopidogrel 75mg - Generic,Anticoagulants,6.38,19.84,1044,28,10,SUP006,Apex Medical Imports
+SKU0193,Furosemide 40mg - Brand,Diuretics,2.1,6.0,1208,28,10,SUP006,Apex Medical Imports
+SKU0194,Vitamin D3 2000 IU - Clinic Pack,OTC Vitamins,0.94,6.99,858,12,4,SUP002,McKesson Direct
+SKU0195,Multivitamin Adult - Retail Pack,OTC Vitamins,4.04,14.99,908,9,3,SUP008,CareLine Direct
+SKU0196,Cough Syrup DM - 90 Count,Cold & Flu,5.28,12.99,1157,14,5,SUP003,AmerisourceBergen
+SKU0197,Cold Relief Capsules - Bottle,Cold & Flu,3.22,9.99,1250,14,5,SUP003,AmerisourceBergen
+SKU0198,Electrolyte Solution - Blister,Hydration,1.8,7.99,311,12,4,SUP002,McKesson Direct
+SKU0199,Antacid Chewables - Generic,Digestive OTC,1.67,6.49,990,10,3,SUP001,Cardinal Health
+SKU0200,Hydrocortisone Cream - Brand,Dermatology,1.87,8.99,541,20,7,SUP009,ValueMed Wholesale
+SKU0201,Amoxicillin 500mg - Clinic Pack,Antibiotics,5.29,16.95,147,10,3,SUP001,Cardinal Health
+SKU0202,Azithromycin 250mg - Retail Pack,Antibiotics,8.47,27.28,232,12,4,SUP002,McKesson Direct
+SKU0203,Doxycycline 100mg - 90 Count,Antibiotics,5.58,15.0,249,6,2,SUP004,QuickPharm Regional
+SKU0204,Ciprofloxacin 500mg - Bottle,Antibiotics,6.09,18.73,398,24,8,SUP005,Global Generics Ltd
+SKU0205,Metformin 500mg - Blister,Diabetes,2.4,6.0,1010,12,4,SUP002,McKesson Direct
+SKU0206,Metformin ER 1000mg - Generic,Diabetes,4.03,9.0,715,14,5,SUP003,AmerisourceBergen
+SKU0207,Insulin Glargine Pen - Brand,Diabetes,28.07,88.0,350,12,4,SUP002,McKesson Direct
+SKU0208,Insulin Aspart Pen - Clinic Pack,Diabetes,39.64,107.07,252,16,6,SUP007,Metro Pharma Hub
+SKU0209,Atorvastatin 20mg - Retail Pack,Cardiovascular,4.69,13.81,548,9,3,SUP008,CareLine Direct
+SKU0210,Rosuvastatin 10mg - 90 Count,Cardiovascular,5.85,14.0,1894,28,10,SUP006,Apex Medical Imports
+SKU0211,Amlodipine 5mg - Bottle,Cardiovascular,2.23,7.0,553,6,2,SUP004,QuickPharm Regional
+SKU0212,Losartan 50mg - Blister,Cardiovascular,2.83,9.0,413,6,2,SUP004,QuickPharm Regional
+SKU0213,Lisinopril 10mg - Generic,Cardiovascular,3.19,7.5,352,9,3,SUP008,CareLine Direct
+SKU0214,Metoprolol 50mg - Brand,Cardiovascular,2.51,7.2,4098,28,10,SUP006,Apex Medical Imports
+SKU0215,Omeprazole 20mg - Clinic Pack,Gastrology,2.8,8.5,534,9,3,SUP008,CareLine Direct
+SKU0216,Pantoprazole 40mg - Retail Pack,Gastrology,3.96,13.4,303,6,2,SUP004,QuickPharm Regional
+SKU0217,Ondansetron 4mg - 90 Count,Gastrology,6.74,18.0,179,10,3,SUP001,Cardinal Health
+SKU0218,Paracetamol 500mg - Bottle,Analgesics,1.38,3.5,2068,14,5,SUP003,AmerisourceBergen
+SKU0219,Ibuprofen 400mg - Blister,Analgesics,1.5,4.5,1129,28,10,SUP006,Apex Medical Imports
+SKU0220,Naproxen 500mg - Generic,Analgesics,2.01,6.5,291,14,5,SUP003,AmerisourceBergen
+SKU0221,Cetirizine 10mg - Brand,Allergy,1.76,5.5,1889,28,10,SUP006,Apex Medical Imports
+SKU0222,Loratadine 10mg - Clinic Pack,Allergy,1.61,4.8,782,10,3,SUP001,Cardinal Health
+SKU0223,Fluticasone Nasal Spray - Retail Pack,Allergy,9.63,30.82,275,12,4,SUP002,McKesson Direct
+SKU0224,Salbutamol Inhaler - 90 Count,Respiratory,14.29,37.84,72,9,3,SUP008,CareLine Direct
+SKU0225,Fluticasone Inhaler - Bottle,Respiratory,15.26,45.0,735,24,8,SUP005,Global Generics Ltd
+SKU0226,Prednisone 5mg - Blister,Immunology,3.65,9.61,352,16,6,SUP007,Metro Pharma Hub
+SKU0227,Levothyroxine 50mcg - Generic,Thyroid,3.61,9.8,2068,24,8,SUP005,Global Generics Ltd
+SKU0228,Sertraline 50mg - Brand,Psychiatry,7.2,23.29,268,10,3,SUP001,Cardinal Health
+SKU0229,Fluoxetine 20mg - Clinic Pack,Psychiatry,4.38,13.0,173,6,2,SUP004,QuickPharm Regional
+SKU0230,Gabapentin 300mg - Retail Pack,Neurology,5.55,15.5,453,14,5,SUP003,AmerisourceBergen
+SKU0231,Warfarin 5mg - 90 Count,Anticoagulants,3.65,11.0,409,24,8,SUP005,Global Generics Ltd
+SKU0232,Clopidogrel 75mg - Bottle,Anticoagulants,4.95,13.5,177,14,5,SUP003,AmerisourceBergen
+SKU0233,Furosemide 40mg - Blister,Diuretics,2.11,6.0,650,16,6,SUP007,Metro Pharma Hub
+SKU0234,Vitamin D3 2000 IU - Generic,OTC Vitamins,1.1,6.99,823,18,5,SUP010,Prime Specialty Supply
+SKU0235,Multivitamin Adult - Brand,OTC Vitamins,3.03,14.99,726,12,4,SUP002,McKesson Direct
+SKU0236,Cough Syrup DM - Clinic Pack,Cold & Flu,4.09,12.99,660,20,7,SUP009,ValueMed Wholesale
+SKU0237,Cold Relief Capsules - Retail Pack,Cold & Flu,3.77,9.99,2983,28,10,SUP006,Apex Medical Imports
+SKU0238,Electrolyte Solution - 90 Count,Hydration,2.47,7.99,273,10,3,SUP001,Cardinal Health
+SKU0239,Antacid Chewables - Bottle,Digestive OTC,1.71,6.49,986,18,5,SUP010,Prime Specialty Supply
+SKU0240,Hydrocortisone Cream - Blister,Dermatology,2.06,8.99,573,9,3,SUP008,CareLine Direct
+SKU0241,Amoxicillin 500mg - Generic,Antibiotics,4.52,13.2,454,14,5,SUP003,AmerisourceBergen
+SKU0242,Azithromycin 250mg - Brand,Antibiotics,7.4,22.0,160,12,4,SUP002,McKesson Direct
+SKU0243,Doxycycline 100mg - Clinic Pack,Antibiotics,5.74,15.0,174,9,3,SUP008,CareLine Direct
+SKU0244,Ciprofloxacin 500mg - Retail Pack,Antibiotics,7.21,18.5,293,20,7,SUP009,ValueMed Wholesale
+SKU0245,Metformin 500mg - 90 Count,Diabetes,2.38,7.97,504,6,2,SUP004,QuickPharm Regional
+SKU0246,Metformin ER 1000mg - Bottle,Diabetes,3.59,9.0,286,6,2,SUP004,QuickPharm Regional
+SKU0247,Insulin Glargine Pen - Blister,Diabetes,37.66,124.7,182,14,5,SUP003,AmerisourceBergen
+SKU0248,Insulin Aspart Pen - Generic,Diabetes,41.98,96.0,100,10,3,SUP001,Cardinal Health
+SKU0249,Atorvastatin 20mg - Brand,Cardiovascular,3.45,10.0,181,6,2,SUP004,QuickPharm Regional
+SKU0250,Rosuvastatin 10mg - Clinic Pack,Cardiovascular,6.11,14.0,1311,24,8,SUP005,Global Generics Ltd
+SKU0251,Amlodipine 5mg - Retail Pack,Cardiovascular,2.1,7.0,396,6,2,SUP004,QuickPharm Regional
+SKU0252,Losartan 50mg - 90 Count,Cardiovascular,4.31,9.55,770,14,5,SUP003,AmerisourceBergen
+SKU0253,Lisinopril 10mg - Bottle,Cardiovascular,2.42,7.5,1896,18,5,SUP010,Prime Specialty Supply
+SKU0254,Metoprolol 50mg - Blister,Cardiovascular,2.97,7.2,445,24,8,SUP005,Global Generics Ltd
+SKU0255,Omeprazole 20mg - Generic,Gastrology,2.5,8.5,1401,24,8,SUP005,Global Generics Ltd
+SKU0256,Pantoprazole 40mg - Brand,Gastrology,4.58,9.0,638,12,4,SUP002,McKesson Direct
+SKU0257,Ondansetron 4mg - Clinic Pack,Gastrology,7.53,23.15,431,28,10,SUP006,Apex Medical Imports
+SKU0258,Paracetamol 500mg - Retail Pack,Analgesics,1.45,4.01,843,6,2,SUP004,QuickPharm Regional
+SKU0259,Ibuprofen 400mg - 90 Count,Analgesics,2.36,4.5,1154,14,5,SUP003,AmerisourceBergen
+SKU0260,Naproxen 500mg - Bottle,Analgesics,2.05,6.5,418,14,5,SUP003,AmerisourceBergen
+SKU0261,Cetirizine 10mg - Blister,Allergy,2.38,7.49,492,9,3,SUP008,CareLine Direct
+SKU0262,Loratadine 10mg - Generic,Allergy,1.66,4.8,398,10,3,SUP001,Cardinal Health
+SKU0263,Fluticasone Nasal Spray - Brand,Allergy,9.96,29.18,169,10,3,SUP001,Cardinal Health
+SKU0264,Salbutamol Inhaler - Clinic Pack,Respiratory,11.36,32.8,378,16,6,SUP007,Metro Pharma Hub
+SKU0265,Fluticasone Inhaler - Retail Pack,Respiratory,20.88,66.98,128,12,4,SUP002,McKesson Direct
+SKU0266,Prednisone 5mg - 90 Count,Immunology,2.89,9.5,493,28,10,SUP006,Apex Medical Imports
+SKU0267,Levothyroxine 50mcg - Bottle,Thyroid,3.95,9.8,995,16,6,SUP007,Metro Pharma Hub
+SKU0268,Sertraline 50mg - Blister,Psychiatry,8.12,22.39,606,16,6,SUP007,Metro Pharma Hub
+SKU0269,Fluoxetine 20mg - Generic,Psychiatry,5.74,13.0,133,9,3,SUP008,CareLine Direct
+SKU0270,Gabapentin 300mg - Brand,Neurology,4.77,15.5,270,10,3,SUP001,Cardinal Health
+SKU0271,Warfarin 5mg - Clinic Pack,Anticoagulants,4.19,12.28,101,14,5,SUP003,AmerisourceBergen
+SKU0272,Clopidogrel 75mg - Retail Pack,Anticoagulants,4.43,13.5,156,6,2,SUP004,QuickPharm Regional
+SKU0273,Furosemide 40mg - 90 Count,Diuretics,1.95,6.0,396,24,8,SUP005,Global Generics Ltd
+SKU0274,Vitamin D3 2000 IU - Bottle,OTC Vitamins,1.21,6.99,823,12,4,SUP002,McKesson Direct
+SKU0275,Multivitamin Adult - Blister,OTC Vitamins,4.49,14.99,857,16,6,SUP007,Metro Pharma Hub
+SKU0276,Cough Syrup DM - Generic,Cold & Flu,4.59,13.07,477,20,7,SUP009,ValueMed Wholesale
+SKU0277,Cold Relief Capsules - Brand,Cold & Flu,2.71,9.99,1093,24,8,SUP005,Global Generics Ltd
+SKU0278,Electrolyte Solution - Clinic Pack,Hydration,1.85,7.99,1008,12,4,SUP002,McKesson Direct
+SKU0279,Antacid Chewables - Retail Pack,Digestive OTC,1.71,6.49,1110,16,6,SUP007,Metro Pharma Hub
+SKU0280,Hydrocortisone Cream - 90 Count,Dermatology,2.69,8.99,683,20,7,SUP009,ValueMed Wholesale
+SKU0281,Amoxicillin 500mg - Bottle,Antibiotics,5.14,16.34,352,12,4,SUP002,McKesson Direct
+SKU0282,Azithromycin 250mg - Blister,Antibiotics,10.09,29.47,396,6,2,SUP004,QuickPharm Regional
+SKU0283,Doxycycline 100mg - Generic,Antibiotics,4.6,15.0,282,12,4,SUP002,McKesson Direct
+SKU0284,Ciprofloxacin 500mg - Brand,Antibiotics,7.11,18.5,255,18,5,SUP010,Prime Specialty Supply
+SKU0285,Metformin 500mg - Clinic Pack,Diabetes,2.65,6.97,647,12,4,SUP002,McKesson Direct
+SKU0286,Metformin ER 1000mg - Retail Pack,Diabetes,4.32,10.3,1444,14,5,SUP003,AmerisourceBergen
+SKU0287,Insulin Glargine Pen - 90 Count,Diabetes,35.75,88.0,107,24,8,SUP005,Global Generics Ltd
+SKU0288,Insulin Aspart Pen - Bottle,Diabetes,44.4,96.0,379,28,10,SUP006,Apex Medical Imports
+SKU0289,Atorvastatin 20mg - Blister,Cardiovascular,4.73,10.73,2497,20,7,SUP009,ValueMed Wholesale
+SKU0290,Rosuvastatin 10mg - Generic,Cardiovascular,5.06,14.0,578,20,7,SUP009,ValueMed Wholesale
+SKU0291,Amlodipine 5mg - Brand,Cardiovascular,2.81,8.76,1067,28,10,SUP006,Apex Medical Imports
+SKU0292,Losartan 50mg - Clinic Pack,Cardiovascular,2.75,9.0,2698,28,10,SUP006,Apex Medical Imports
+SKU0293,Lisinopril 10mg - Retail Pack,Cardiovascular,2.72,8.52,517,9,3,SUP008,CareLine Direct
+SKU0294,Metoprolol 50mg - 90 Count,Cardiovascular,3.16,7.38,335,10,3,SUP001,Cardinal Health
+SKU0295,Omeprazole 20mg - Bottle,Gastrology,3.67,10.6,169,6,2,SUP004,QuickPharm Regional
+SKU0296,Pantoprazole 40mg - Blister,Gastrology,3.76,10.06,3078,28,10,SUP006,Apex Medical Imports
+SKU0297,Ondansetron 4mg - Generic,Gastrology,5.87,19.48,209,18,5,SUP010,Prime Specialty Supply
+SKU0298,Paracetamol 500mg - Brand,Analgesics,1.6,3.5,1211,12,4,SUP002,McKesson Direct
+SKU0299,Ibuprofen 400mg - Clinic Pack,Analgesics,2.34,5.44,3959,18,5,SUP010,Prime Specialty Supply
+SKU0300,Naproxen 500mg - Retail Pack,Analgesics,2.11,6.52,233,10,3,SUP001,Cardinal Health
+SKU0301,Cetirizine 10mg - 90 Count,Allergy,1.71,5.78,778,10,3,SUP001,Cardinal Health
+SKU0302,Loratadine 10mg - Bottle,Allergy,1.63,4.8,1277,24,8,SUP005,Global Generics Ltd
+SKU0303,Fluticasone Nasal Spray - Blister,Allergy,11.84,37.8,681,28,10,SUP006,Apex Medical Imports
+SKU0304,Salbutamol Inhaler - Generic,Respiratory,16.02,44.3,139,6,2,SUP004,QuickPharm Regional
+SKU0305,Fluticasone Inhaler - Brand,Respiratory,22.13,70.38,186,9,3,SUP008,CareLine Direct
+SKU0306,Prednisone 5mg - Clinic Pack,Immunology,3.43,9.5,151,18,5,SUP010,Prime Specialty Supply
+SKU0307,Levothyroxine 50mcg - Retail Pack,Thyroid,3.17,9.8,427,12,4,SUP002,McKesson Direct
+SKU0308,Sertraline 50mg - 90 Count,Psychiatry,7.23,22.15,243,6,2,SUP004,QuickPharm Regional
+SKU0309,Fluoxetine 20mg - Bottle,Psychiatry,5.01,14.26,169,9,3,SUP008,CareLine Direct
+SKU0310,Gabapentin 300mg - Blister,Neurology,6.74,15.5,245,9,3,SUP008,CareLine Direct
+SKU0311,Warfarin 5mg - Generic,Anticoagulants,4.99,12.47,886,28,10,SUP006,Apex Medical Imports
+SKU0312,Clopidogrel 75mg - Brand,Anticoagulants,5.68,17.94,924,24,8,SUP005,Global Generics Ltd
+SKU0313,Furosemide 40mg - Clinic Pack,Diuretics,2.25,7.38,303,18,5,SUP010,Prime Specialty Supply
+SKU0314,Vitamin D3 2000 IU - Retail Pack,OTC Vitamins,1.09,6.99,741,18,5,SUP010,Prime Specialty Supply
+SKU0315,Multivitamin Adult - 90 Count,OTC Vitamins,4.09,14.99,1804,18,5,SUP010,Prime Specialty Supply
+SKU0316,Cough Syrup DM - Bottle,Cold & Flu,5.34,12.99,503,24,8,SUP005,Global Generics Ltd
+SKU0317,Cold Relief Capsules - Blister,Cold & Flu,3.72,9.99,860,9,3,SUP008,CareLine Direct
+SKU0318,Electrolyte Solution - Generic,Hydration,2.6,7.99,187,9,3,SUP008,CareLine Direct
+SKU0319,Antacid Chewables - Brand,Digestive OTC,1.34,6.49,511,14,5,SUP003,AmerisourceBergen
+SKU0320,Hydrocortisone Cream - Clinic Pack,Dermatology,2.15,8.99,466,18,5,SUP010,Prime Specialty Supply
+SKU0321,Amoxicillin 500mg - Retail Pack,Antibiotics,4.18,12.83,249,16,6,SUP007,Metro Pharma Hub
+SKU0322,Azithromycin 250mg - 90 Count,Antibiotics,11.41,22.0,86,10,3,SUP001,Cardinal Health
+SKU0323,Doxycycline 100mg - Bottle,Antibiotics,6.22,15.0,882,24,8,SUP005,Global Generics Ltd
+SKU0324,Ciprofloxacin 500mg - Blister,Antibiotics,6.0,18.5,368,20,7,SUP009,ValueMed Wholesale
+SKU0325,Metformin 500mg - Generic,Diabetes,2.36,6.66,1794,28,10,SUP006,Apex Medical Imports
+SKU0326,Metformin ER 1000mg - Brand,Diabetes,3.0,9.0,329,10,3,SUP001,Cardinal Health
+SKU0327,Insulin Glargine Pen - Clinic Pack,Diabetes,42.63,133.28,52,6,2,SUP004,QuickPharm Regional
+SKU0328,Insulin Aspart Pen - Retail Pack,Diabetes,41.93,131.36,92,20,7,SUP009,ValueMed Wholesale
+SKU0329,Atorvastatin 20mg - 90 Count,Cardiovascular,3.97,10.0,1916,28,10,SUP006,Apex Medical Imports
+SKU0330,Rosuvastatin 10mg - Bottle,Cardiovascular,6.95,19.97,995,18,5,SUP010,Prime Specialty Supply
+SKU0331,Amlodipine 5mg - Blister,Cardiovascular,3.19,10.16,1010,14,5,SUP003,AmerisourceBergen
+SKU0332,Losartan 50mg - Generic,Cardiovascular,3.6,10.19,601,9,3,SUP008,CareLine Direct
+SKU0333,Lisinopril 10mg - Brand,Cardiovascular,2.87,7.5,958,16,6,SUP007,Metro Pharma Hub
+SKU0334,Metoprolol 50mg - Clinic Pack,Cardiovascular,2.3,7.2,1085,20,7,SUP009,ValueMed Wholesale
+SKU0335,Omeprazole 20mg - Retail Pack,Gastrology,2.38,8.5,2320,18,5,SUP010,Prime Specialty Supply
+SKU0336,Pantoprazole 40mg - 90 Count,Gastrology,4.15,13.75,264,28,10,SUP006,Apex Medical Imports
+SKU0337,Ondansetron 4mg - Bottle,Gastrology,8.79,28.85,346,24,8,SUP005,Global Generics Ltd
+SKU0338,Paracetamol 500mg - Blister,Analgesics,1.2,3.95,736,18,5,SUP010,Prime Specialty Supply
+SKU0339,Ibuprofen 400mg - Generic,Analgesics,2.31,4.99,2351,12,4,SUP002,McKesson Direct
+SKU0340,Naproxen 500mg - Brand,Analgesics,2.82,8.17,647,18,5,SUP010,Prime Specialty Supply
+SKU0341,Cetirizine 10mg - Clinic Pack,Allergy,1.8,5.94,970,12,4,SUP002,McKesson Direct
+SKU0342,Loratadine 10mg - Retail Pack,Allergy,1.47,4.8,1021,14,5,SUP003,AmerisourceBergen
+SKU0343,Fluticasone Nasal Spray - 90 Count,Allergy,11.86,28.79,100,9,3,SUP008,CareLine Direct
+SKU0344,Salbutamol Inhaler - Bottle,Respiratory,14.35,40.81,151,9,3,SUP008,CareLine Direct
+SKU0345,Fluticasone Inhaler - Blister,Respiratory,23.87,47.89,104,12,4,SUP002,McKesson Direct
+SKU0346,Prednisone 5mg - Generic,Immunology,4.32,11.57,779,28,10,SUP006,Apex Medical Imports
+SKU0347,Levothyroxine 50mcg - Brand,Thyroid,4.83,16.07,3673,28,10,SUP006,Apex Medical Imports
+SKU0348,Sertraline 50mg - Clinic Pack,Psychiatry,6.9,16.95,1056,18,5,SUP010,Prime Specialty Supply
+SKU0349,Fluoxetine 20mg - Retail Pack,Psychiatry,5.78,13.0,387,18,5,SUP010,Prime Specialty Supply
+SKU0350,Gabapentin 300mg - 90 Count,Neurology,6.66,18.64,326,14,5,SUP003,AmerisourceBergen
